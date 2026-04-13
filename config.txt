@@ -1,0 +1,14 @@
+nombre=EQUIPOS CONMEBOL
+victoria=3
+empate=1
+derrota=0
+equipo=River Plate
+equipo=Bolivar
+equipo=Flamengo
+equipo=Colo-Colo
+equipo=Atletico Nacional
+equipo=Emelec
+equipo=Olimpia
+equipo=Alianza Lima
+equipo=Penarol
+equipo=Caracas FC
